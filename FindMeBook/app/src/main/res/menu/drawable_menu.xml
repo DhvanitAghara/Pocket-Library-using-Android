@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+<item android:title="Dashboard">
+
+       <menu>
+           <group android:checkableBehavior="single">
+            <item android:id="@+id/studentrecord"
+                android:icon="@drawable/logo_studentrecord"
+                android:title="Student Record"/>
+
+               <item android:id="@+id/bookdetails"
+                   android:icon="@drawable/logo_bookdetails"
+                   android:title="Book Details"/>
+
+               <item android:id="@+id/editprofile"
+                   android:icon="@drawable/logo_edit_profile"
+                   android:title="Edit Profile"/>
+
+               <item android:id="@+id/changepassword"
+                   android:icon="@drawable/logo_change_password"
+                   android:title="Change Password"/>
+
+
+           </group>
+       </menu>
+
+</item>
+
+
+    <item android:title="Account Setting">
+        <menu>
+
+            <item android:id="@+id/logout"
+                android:icon="@drawable/logo_logout"
+                android:title="Logout">
+            </item>
+
+        </menu>
+    </item>
+
+</menu>

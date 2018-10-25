@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "438121435606",
+    "firebase_url": "https://librarymanagment-59e57.firebaseio.com",
+    "project_id": "librarymanagment-59e57",
+    "storage_bucket": "librarymanagment-59e57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438121435606:android:106eaa4730cffa3d",
+        "android_client_info": {
+          "package_name": "com.example.dhvanit.findmebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438121435606-5742nrta5nalhunii1dl8jlo0s2v8544.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dhvanit.findmebook",
+            "certificate_hash": "30933dd51123d717f1d19c2cbcb62998ced5173f"
+          }
+        },
+        {
+          "client_id": "438121435606-st0rgjqsaep6edlcdj3cj8oc5bsc1jdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgWUNlhT_L7-IPGiVkGq5KVkGR_ZSu43w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438121435606-st0rgjqsaep6edlcdj3cj8oc5bsc1jdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438121435606:android:f214deafa06e96e3",
+        "android_client_info": {
+          "package_name": "com.example.dhvanit.librarymangementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438121435606-6f3m0ut5k9jdcpg0907iop66kho8shb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dhvanit.librarymangementapp",
+            "certificate_hash": "30933dd51123d717f1d19c2cbcb62998ced5173f"
+          }
+        },
+        {
+          "client_id": "438121435606-st0rgjqsaep6edlcdj3cj8oc5bsc1jdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgWUNlhT_L7-IPGiVkGq5KVkGR_ZSu43w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438121435606-st0rgjqsaep6edlcdj3cj8oc5bsc1jdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

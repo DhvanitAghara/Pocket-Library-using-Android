@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--<color name="homecolorPrimary">#08a0e9</color>
+    <color name="homecolorPrimaryDark">#0084B4</color>
+    <color name="homecolorAccent">#E8F5FD</color>-->
+
+    <color name="homecolorPrimary">#d44638</color>
+    <color name="homecolorPrimaryDark">#b23121</color>
+    <color name="homecolorAccent">#ff0800</color>
+
+
+</resources>

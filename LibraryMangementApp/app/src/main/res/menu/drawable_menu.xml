@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+<item android:title="Dashboard">
+
+       <menu>
+           <group android:checkableBehavior="single">
+            <item android:id="@+id/studentrecord"
+                android:icon="@drawable/logo_studentrecord"
+                android:title="Student Record"/>
+
+            <item android:id="@+id/issuebook"
+                android:icon="@drawable/logo_issuebook"
+                android:title="Issue Book"/>
+
+             <item android:id="@+id/returnbook"
+                android:icon="@drawable/logo_returnbook"
+                android:title="Return Book"/>
+
+            <item android:id="@+id/bookdetails"
+                android:icon="@drawable/logo_bookdetails"
+                android:title="Book Details"/>
+
+            <item android:id="@+id/add_existing_book"
+                android:icon="@drawable/logo_add_existing_book"
+                android:title="Add Existing Book"/>
+
+            <item android:id="@+id/addbook"
+                android:icon="@drawable/logo_addbook"
+                android:title="Add New Book"/>
+
+            <item android:id="@+id/adduser"
+                android:icon="@drawable/logo_adduser"
+                android:title="Add New Student"/>
+
+            <item android:id="@+id/change_password"
+                   android:icon="@drawable/logo_change_password"
+                   android:title="Change Student Password">
+            </item>
+
+           </group>
+       </menu>
+
+</item>
+
+
+    <item android:title="Account Setting">
+        <menu>
+
+            <item android:id="@+id/logout"
+                android:icon="@drawable/logo_logout"
+                android:title="Logout">
+            </item>
+
+        </menu>
+    </item>
+
+</menu>
