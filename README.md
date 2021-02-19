@@ -1,0 +1,7 @@
+# Pocket-Library-using-Android
+This project “Pocket Library” is developed to have a smooth flow of library related activities between admin and user rather than manual work. Mainly there will be two apps. One, which works at admin side and only admin can login through it and related activities can be performed wherein the “Findmebook” app works as per the student needs. By including feature like barcode scanning in the app, reduces the human error as well as makes the flow efficient. Both the apps are prepared in Android Studio. 
+
+The main aim to work on this project is to make the library management system more efficient and to have a smooth flow of library related activities through the app rather than manual work.  
+ 
+Two apps-1) Admin app      Only registered admin can login through this app and related activities like             adding books through barcode scanning, to register new student, etc are performed.                                  2) FindmeBook app (student’s side)                      Only registered student can use this app and its functionality. Student can know about the availability of the books at the library, can view the books as per the department, etc.                   A library management system is a project that manages and stores books information electronically according to student’s needs. The system helps both students and library manager to keep a constant track of all the books available in the library.  
+ 
